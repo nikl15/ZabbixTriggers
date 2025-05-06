@@ -1,4 +1,3 @@
-from unittest import result
 from zabbix_utils import ZabbixAPI
 import pandas as pd
 
